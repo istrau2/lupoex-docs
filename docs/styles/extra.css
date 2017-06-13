@@ -1,0 +1,17 @@
+.md-header {
+    background-color: #5b6a72 !important;
+}
+
+h1 {
+    display: none;
+}
+
+.md-logo {
+    margin: 0;
+    padding: 0;
+}
+
+.md-logo img {
+    height: 50px !important;
+    width: 50px !important;
+}
