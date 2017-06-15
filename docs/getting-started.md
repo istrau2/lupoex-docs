@@ -5,6 +5,7 @@ Instead, you create a Stellar account and log in with that.
 ###Creating an account
 While we have plans for enabling Stellar account creation from the Lupoex platform, for now, creating a Stellar account via Lupoex is not supported.
 That said, creating a Stellar account outside of Lupoex is not difficult:
+
 1. Go to the <a href="https://www.stellar.org/account-viewer" target="_blank">Stellar Account Viewer</a>
     * Generate a keypair
     * Copy down your public and secret keys (IMPORTANT: while your public key can be sent to other people without fear, your secret key is HIGHLY SENSITIVE. Anyone with access to your secret key has full control over any and all assets in your account. Be sure to store your secret key in a secure manner).
@@ -16,6 +17,7 @@ That's it. You now have a Stellar account.
 ##Logging In
 
 Once you have a Stellar account, logging in is super easy:
+
 1. Click on the user icon on the right side of the navbar.
 2. Login with your Stellar account's public key
 
