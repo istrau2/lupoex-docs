@@ -3,6 +3,7 @@ pages:
   - 'index.md'
   - Getting Started: 'getting-started.md'
   - Viewing Your First Market: 'viewing-your-first-market.md'
+  - Terms And Conditions: 'terms-and-conditions.md'
 theme: material
 site_favicon: 'images/favicon.ico'
 markdown_extensions:
