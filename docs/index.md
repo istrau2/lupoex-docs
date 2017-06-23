@@ -15,4 +15,4 @@ To learn more about Stellar, see the <a href="https://www.stellar.org/how-it-wor
 With Lupoex and Stellar, there is no need to deposit your money on some third party exchange so that you can trade.
 Instead, you can maintain an account of various assets that you control directly. At any moment you can rebalance your account or cash out.
 
-Ready to trade? [Get started.](/getting-started)
+Ready to trade? [Get started.](/getting-started/overview)

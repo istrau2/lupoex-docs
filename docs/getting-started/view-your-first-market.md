@@ -1,4 +1,4 @@
-##Viewing Your First Market
+##View Your First Market
 
 ###What is a Stellar market
 To explain what a stellar market is, it is better to start off with an explanation of stellar assets:
@@ -19,6 +19,8 @@ Just start typing in the code box and the dropdown will give you asset code sugg
 After you choose the asset code (USD or EUR etc.), you will need to choose an asset issuer (since, as we mentioned above multiple accounts can issue an asset with the same code).
 The issuer box will give you suggestions of issuers that have issued an asset with the chosen code.
 
+![Search Stellar Assets](/images/getting-started/view-your-first-market/search-assets.png)
+
 ###Asset Verification
 By now, if you have searched in the asset issuer box, you have probably noticed domain names next to the issuer addresses.
 These domain names are website urls published by these accounts where you can learn more about that issuing account.
@@ -31,4 +33,17 @@ It would be unverified unless you could go and get your asset (including your ac
 In essence verification, is a process that allows the actual owners of websites verify that they are indeed the ones that own a stellar account that claims their domain.
 Pay attention to the verification notifications that appear next to assets!
 
-Once you have selected a buying asset code/issuer and a selling asset code/issuer, just click the 'Load button' to view that market on the Lupoex platform.
+![Search Stellar Assets](/images/getting-started/view-your-first-market/asset-verified.png)
+![Search Stellar Assets](/images/getting-started/view-your-first-market/asset-not-verified.png)
+
+###Top Ten Markets
+The 'Top Ten Markets' widget displays the top ten markets by trade count or change (depending on which column you have sorted by). Click on any of the rows to view that particular market.
+
+!!! tip
+    You are probably wondering why all of the assets listed have a positive (green) Change %. The reason is because any market in stellar can be displayed as AssetA/AssetB or AssetB/AssetA. 
+    This means that depending on which way you display the market, it can always have gone up or down. In order to make sure that the markets don't show up in the table twice (but from the opposite viewpoint),
+    we only display markets from the positive change viewpoint (that is, from the viewpoint that has gone up). If you want to view the market the other way, you can always use the 'Search Assets' widget.
+    
+![Top Ten Markets](/images/getting-started/view-your-first-market/top-ten-markets.png)
+
+If you have selected a buying asset code/issuer and a selling asset code/issuer via the 'Search Assets' widget, just click the 'Load button' to view that market on the Lupoex platform.

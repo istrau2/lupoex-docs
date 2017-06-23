@@ -1,8 +1,11 @@
 site_name: Lupoex Documentation
 pages:
   - 'index.md'
-  - Getting Started: 'getting-started.md'
-  - Viewing Your First Market: 'viewing-your-first-market.md'
+  - Getting Started:
+    - Overview: 'getting-started/overview.md'
+    - Create An Account: 'getting-started/create-an-account.md'
+    - Log In: 'getting-started/log-in.md'
+    - View Your First Market: 'getting-started/view-your-first-market.md'
   - Terms And Conditions: 'terms-and-conditions.md'
 theme: material
 site_favicon: 'images/favicon.ico'
