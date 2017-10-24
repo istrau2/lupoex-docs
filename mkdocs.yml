@@ -6,7 +6,6 @@ pages:
     - Create An Account: 'getting-started/create-an-account.md'
     - Log In: 'getting-started/log-in.md'
     - View Your First Market: 'getting-started/view-your-first-market.md'
-  - Terms And Conditions: 'terms-and-conditions.md'
 theme: material
 site_favicon: 'images/favicon.ico'
 markdown_extensions:
