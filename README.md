@@ -26,16 +26,3 @@ Build with mkdocs:
 ```
 mkdocs build
 ```
-
-Build a docker image:
-```
-docker build -t lupoex-docs .
-```
-
-Test the docker container locally:
-```
-docker run -d -p 8080:80 lupoex-docs
-```
-You should now be able to see the running container at localhost:8080 in your browser.
-
-Finally, push to ecr and deploy.
