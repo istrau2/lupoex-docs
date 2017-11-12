@@ -7,7 +7,7 @@ Our mission is to provide you with a smooth and intuitive trading experience whi
 ### What is Stellar
 Stellar is a leading decentralized exchange. In other words, Stellar is a network of nodes (run by various institutions, companies and individuals)
 which comes to consensus about exchange related data every few seconds. With Stellar, there is no single point of failure at which the exchange can fail and no third party exchange which
-to which you need to entrust your money. Instead, all trade occurs on the network. To trade, just create an account on the network and start trading. You maintain control over you money at all times!
+to which you need to entrust your money. Instead, all trade occurs on the network. To trade, just create an account on the network and start trading. You maintain control over your money at all times!
 To learn more about Stellar, see the <a href="https://www.stellar.org/how-it-works/stellar-basics/" target="_blank">Stellar, How It Works</a>
 
 ### What this means for you!
